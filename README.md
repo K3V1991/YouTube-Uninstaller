@@ -6,15 +6,12 @@
 ## NFO:
 * Flashable Zip
 * Clears the Cache & Dalvik-Cache automatically
-<br />
 
 ## Apps:
 * YouTube
-<br />
 
 ## Requirements:
 * TWRP
-<br />
 
 ## Usage:
 Flash it via TWRP, done
