@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/XxS6x9X/You-Tube-Uninstaller.png" width="150"></a>
+<p align="center"><img src="https://i.ibb.co/XxS6x9X/You-Tube-Uninstaller.png" width="180"></a>
 <h1 align="center"><b>YouTube Uninstaller (TWRP)</b></h1>
 <h4 align="center">This flashable Zip removes YouTube</h4>
 <br />
